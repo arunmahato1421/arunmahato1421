@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Replace BANNER_GIF_URL with your uploaded GIF file link -->
-  <img src="BANNER_GIF_URL" ARUN MAHATO" width="100%"/>
+  <img src="https://github.com/arunmahato1421/arunmahato1421/blob/main/myimage.png" ARUN MAHATO" width="100%"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Arun Kumar Mahato</h1>
