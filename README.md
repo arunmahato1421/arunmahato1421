@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Arun  Mahato — DevOps Engineer Banner" width="100%" />
+  <img src="https://github.com/arunmahato1421/arunmahato1421/blob/main/ChatGPT%20Image%20Nov%2013%2C%202025%2C%2010_55_12%20PM.png" alt="Arun  Mahato — DevOps Engineer Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Arun Mahato</h1>
