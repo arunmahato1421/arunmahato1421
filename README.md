@@ -23,18 +23,12 @@
   <a href="#"><img src="https://img.shields.io/badge/4G%2F5G-Network-blue?style=for-the-badge&logo=telegraph&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/MPLS-Network-orange?style=for-the-badge&logo=networkx&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Network%20Operations-NOC-yellow?style=for-the-badge&logo=opsgenie&logoColor=white" /></a>
-
-  <br>
-  <### **Cloud & DevOps**
-<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
 </p>
 
 ---
