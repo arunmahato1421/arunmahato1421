@@ -1,8 +1,4 @@
 <p align="center">
-  <!-- Replace BANNER_GIF_URL with your uploaded GIF/PNG raw link -->
-  <img src="https://github.com/arunmahato1421/arunmahato1421/blob/main/myimage.png" alt="Arun Kumar Mahato — Network & DevOps " width="100%"/>
-</p>
-
 <h1 align="center">👋 Hi, I'm Arun Kumar Mahato</h1>
 <h3 align="center">🚀 Network & DevOps Engineer | From 4G/5G & MPLS to Cloud Automation</h3>
 
